@@ -1,0 +1,554 @@
+{"service":"userManagementService","timestamp":"2016-04-20T05:01:48.116Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:02:03.008Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:02:03.019Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:33:48.532Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:33:48.542Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:34:22.964Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:34:22.974Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:34:58.784Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:34:58.793Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:35:26.915Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:35:26.932Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:36:09.065Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:36:09.075Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:36:42.263Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:36:42.272Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:37:44.454Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:37:44.464Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:38:21.032Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:38:21.042Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:38:47.052Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:38:47.063Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:39:17.351Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:39:17.361Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:40:38.627Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:40:38.636Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:43:16.339Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:43:16.350Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:44:02.500Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:44:02.510Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:44:19.871Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:44:19.880Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:44:45.686Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:44:45.696Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:45:25.555Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:45:25.565Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:47:32.906Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:47:32.917Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:47:46.808Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:47:46.817Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:49:16.378Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:49:16.387Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:51:46.396Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:51:46.407Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:52:59.297Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:52:59.308Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:53:39.251Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:53:39.260Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:54:32.864Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:54:32.875Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:54:50.175Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:54:50.185Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:55:57.689Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:55:57.701Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:56:17.295Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:56:17.305Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:56:22.311Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:56:22.322Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:56:31.256Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:56:31.265Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:58:40.534Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:58:40.544Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:59:00.292Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T05:59:00.303Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:00:13.152Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:00:13.161Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:00:31.248Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:00:31.259Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:01:04.842Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:01:04.854Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:01:34.213Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:01:34.223Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:01:54.049Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:01:54.061Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:21:02.904Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:21:02.915Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:21:16.294Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:21:16.300Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:23:52.216Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:23:52.226Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:24:28.869Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:24:28.880Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:24:45.959Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:24:45.970Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:25:26.573Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:25:26.583Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:25:52.678Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:25:52.688Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:26:19.293Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:26:19.303Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:27:43.749Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:27:43.759Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:29:36.245Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:29:36.255Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:30:03.575Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:30:03.586Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:30:35.943Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:30:35.954Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:30:42.542Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:30:42.552Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:30:57.802Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:30:57.812Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:33:54.462Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:33:54.472Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:34:12.990Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-20T06:34:13.004Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:01:04.535Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:01:04.545Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:01:36.588Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:01:36.598Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:02:23.188Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:02:23.199Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:05:57.846Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:05:57.857Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:06:43.053Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:06:43.063Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:08:20.292Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:08:20.302Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:08:30.035Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:08:30.045Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:08:52.732Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:08:52.743Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:09:34.264Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:09:34.274Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:09:41.541Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:09:41.551Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:09:52.964Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:09:52.976Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:11:55.071Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:11:55.087Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:12:01.004Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:12:01.015Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:12:52.961Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:12:52.972Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:13:33.925Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:13:33.935Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:14:45.619Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:14:45.631Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:15:00.584Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:15:00.595Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:16:15.879Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:16:15.892Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:16:19.628Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:16:19.638Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:16:36.344Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:16:36.353Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:16:49.738Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:16:49.750Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:17:55.830Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:17:55.839Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:18:25.451Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:18:25.461Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:21:12.184Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:21:12.212Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:23:32.710Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:23:32.735Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:23:50.358Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:23:50.373Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:24:05.497Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:24:05.508Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:24:32.572Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:24:32.586Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:25:00.373Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:25:00.386Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:25:27.985Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:25:27.997Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:26:00.338Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:26:00.350Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:27:21.439Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:27:21.451Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:28:13.697Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:28:13.705Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:28:30.764Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:28:30.779Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:28:35.078Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:28:35.097Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:31:15.154Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:31:15.168Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:31:15.170Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:31:15.173Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:31:32.428Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:31:32.436Z","level":"info","message":"info userService._validate"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:31:32.440Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-21T05:31:32.444Z","level":"info","message":"info userService._validate OK"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:37:09.651Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:37:09.682Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:37:09.689Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199c655dc86f1cc2e0aae2"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:37:09.690Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199c655dc86f1cc2e0aae2"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:37:09.700Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 57199c655dc86f1cc2e0aae2 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:37:09.700Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 57199c655dc86f1cc2e0aae2 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:43:55.382Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:43:55.405Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:43:55.409Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:43:55.413Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199dfb7d242dcbc26fb7ee"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:43:55.413Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199dfb7d242dcbc26fb7ee"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:43:55.427Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 57199dfb7d242dcbc26fb7ee not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:43:55.428Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 57199dfb7d242dcbc26fb7ee not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:44:33.615Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:44:33.633Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:03.770Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:03.773Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199e214f6861dbc26335ba"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:03.774Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199e214f6861dbc26335ba"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:03.779Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 57199e214f6861dbc26335ba not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:03.780Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 57199e214f6861dbc26335ba not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:26.551Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:26.566Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:30.596Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:30.600Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199e5693a4f1f1c2e9e171"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:30.600Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199e5693a4f1f1c2e9e171"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:30.605Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 57199e5693a4f1f1c2e9e171 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:30.606Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 57199e5693a4f1f1c2e9e171 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:37.110Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:37.133Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:37.138Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:37.142Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199e611bacfdfac23698ac"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:37.143Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199e611bacfdfac23698ac"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:37.152Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 57199e611bacfdfac23698ac not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:45:37.153Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 57199e611bacfdfac23698ac not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:46:08.597Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:46:08.623Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:46:08.627Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:46:08.632Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199e80750d0d0bc32f5bf3"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:46:08.632Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199e80750d0d0bc32f5bf3"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:46:08.643Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 57199e80750d0d0bc32f5bf3 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:46:08.644Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 57199e80750d0d0bc32f5bf3 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:47:06.350Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:47:06.374Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:47:06.380Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:47:06.387Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199eba47d34b2bc37c480b"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:47:06.387Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199eba47d34b2bc37c480b"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:47:06.396Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 57199eba47d34b2bc37c480b not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:47:06.397Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 57199eba47d34b2bc37c480b not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:47:37.285Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:47:37.311Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:47:37.319Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:47:37.323Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199ed9eaeac83bc36bb644"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:47:37.324Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199ed9eaeac83bc36bb644"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:09.219Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:09.244Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:09.252Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:09.256Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199ef92ae5f54cc359d6f0"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:09.256Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199ef92ae5f54cc359d6f0"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:18.489Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:18.518Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:18.527Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:18.532Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199f020085d756c320885f"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:18.532Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199f020085d756c320885f"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:30.716Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:30.741Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:30.749Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:30.755Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199f0e5f21915fc396bb8e"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:30.756Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199f0e5f21915fc396bb8e"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:30.766Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 57199f0e5f21915fc396bb8e not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:30.767Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 57199f0e5f21915fc396bb8e not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:41.353Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:41.377Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:41.384Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199f191205c96ac3c586b0"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:41.385Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199f191205c96ac3c586b0"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:41.387Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199f191205c96ac3c586b0"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:41.387Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199f191205c96ac3c586b0"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:41.395Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 57199f191205c96ac3c586b0 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:41.396Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 57199f191205c96ac3c586b0 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:41.398Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 57199f191205c96ac3c586b0 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:48:41.398Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 57199f191205c96ac3c586b0 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:49:20.570Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:49:20.596Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:49:20.604Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199f407e655c7ec356a3fc"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:49:20.604Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199f407e655c7ec356a3fc"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:49:20.606Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199f407e655c7ec356a3fc"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:49:20.607Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199f407e655c7ec356a3fc"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:49:20.614Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 57199f407e655c7ec356a3fc not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:49:20.614Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 57199f407e655c7ec356a3fc not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:49:20.616Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 57199f407e655c7ec356a3fc not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:49:20.616Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 57199f407e655c7ec356a3fc not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:50:34.955Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:50:34.980Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:50:34.988Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199f8adcb1ab9ec364d15c"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:50:34.989Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199f8adcb1ab9ec364d15c"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:50:34.992Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199f8adcb1ab9ec364d15c"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:50:34.992Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199f8adcb1ab9ec364d15c"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:50:34.998Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 57199f8adcb1ab9ec364d15c not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:50:34.999Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 57199f8adcb1ab9ec364d15c not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:50:35.000Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 57199f8adcb1ab9ec364d15c not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:50:35.000Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 57199f8adcb1ab9ec364d15c not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:51:31.322Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:51:44.384Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:51:50.875Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:51:59.217Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:51:59.241Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:51:59.249Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199fdf4bbfcfcfc39b56e4"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:51:59.249Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199fdf4bbfcfcfc39b56e4"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:51:59.251Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=57199fdf4bbfcfcfc39b56e4"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:51:59.252Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=57199fdf4bbfcfcfc39b56e4"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:51:59.261Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 57199fdf4bbfcfcfc39b56e4 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:51:59.261Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 57199fdf4bbfcfcfc39b56e4 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:51:59.263Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 57199fdf4bbfcfcfc39b56e4 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:51:59.264Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 57199fdf4bbfcfcfc39b56e4 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:52:54.386Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:52:54.410Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:52:54.420Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719a016eb330eeac3102d05"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:52:54.420Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719a016eb330eeac3102d05"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:52:54.424Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719a016eb330eeac3102d05"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:52:54.424Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719a016eb330eeac3102d05"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:52:54.432Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719a016eb330eeac3102d05 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:52:54.433Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719a016eb330eeac3102d05 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:52:54.435Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719a016eb330eeac3102d05 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:52:54.435Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719a016eb330eeac3102d05 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:52:59.570Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:52:59.593Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:53:41.251Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:53:41.275Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:54:18.642Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:54:46.788Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T03:59:54.966Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T03:59:54.994Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:08.699Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:08.723Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:18.472Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:18.497Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:18.502Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:18.511Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719a1d26d0e58bac4c20035"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:18.512Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719a1d26d0e58bac4c20035"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:18.518Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719a1d26d0e58bac4c20035 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:18.518Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719a1d26d0e58bac4c20035 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:27.805Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:38.144Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:38.171Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:38.177Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:38.186Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719a1e685690cc7c4454208"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:38.186Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719a1e685690cc7c4454208"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:38.190Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719a1e685690cc7c4454208 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:38.191Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719a1e685690cc7c4454208 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:41.288Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=undefined"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:41.290Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=undefined"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:00:41.316Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for undefined not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:01:15.609Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=undefined"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:01:15.612Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=undefined"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:01:15.639Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for undefined not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:02:53.921Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:02:53.947Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:02:53.952Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:02:53.961Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719a26d0f21e90ec5779d63"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:02:53.962Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719a26d0f21e90ec5779d63"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:02:53.966Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719a26d0f21e90ec5779d63 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:02:53.968Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719a26d0f21e90ec5779d63 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:02:53.968Z","module":"userService","funcName":"_updateGardenCenters","level":"error","message":"error Profile for 5719a26d0f21e90ec5779d63 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:03:19.319Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=undefined"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:03:19.321Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=undefined"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:03:19.348Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for undefined not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:03:35.976Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=undefined"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:03:35.979Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=undefined"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:03:36.005Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for undefined not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:03:43.765Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:03:43.790Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:03:43.796Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:03:43.805Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719a29fad402e2bc57cb4e9"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:03:43.805Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719a29fad402e2bc57cb4e9"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:03:43.811Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719a29fad402e2bc57cb4e9 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:03:43.811Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719a29fad402e2bc57cb4e9 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:03:43.812Z","module":"userService","funcName":"_updateGardenCenters","level":"error","message":"error Profile for 5719a29fad402e2bc57cb4e9 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:04:33.498Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:04:33.525Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:04:33.530Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:04:33.539Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719a2d1b41ab940c5e1d653"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:04:33.539Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719a2d1b41ab940c5e1d653"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:04:33.544Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719a2d1b41ab940c5e1d653 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:04:33.545Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719a2d1b41ab940c5e1d653 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:04:33.545Z","module":"userService","funcName":"_updateGardenCenters","level":"error","message":"error Profile for 5719a2d1b41ab940c5e1d653 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:13.933Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:13.958Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:13.964Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:13.973Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719a2f98b22fd5ac51bbadc"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:13.974Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719a2f98b22fd5ac51bbadc"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:13.980Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719a2f98b22fd5ac51bbadc not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:13.980Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719a2f98b22fd5ac51bbadc not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:13.981Z","module":"userService","funcName":"_updateGardenCenters","level":"error","message":"error Profile for 5719a2f98b22fd5ac51bbadc not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:13.986Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:22.484Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:22.508Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:22.514Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:22.521Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719a30214ab7b62c51f974b"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:22.521Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719a30214ab7b62c51f974b"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:22.528Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:22.532Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719a30214ab7b62c51f974b not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:22.532Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719a30214ab7b62c51f974b not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:22.533Z","module":"userService","funcName":"_updateGardenCenters","level":"error","message":"error Profile for 5719a30214ab7b62c51f974b not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:05:40.713Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:06:05.285Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:06:24.101Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:07:07.371Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:07:18.268Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:07:48.472Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:08:55.833Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:09:02.052Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:12:42.570Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:16:12.207Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:16:26.327Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:18:59.779Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:19:07.093Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:19:18.470Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:19:55.378Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:20:09.234Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:21:34.936Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:21:44.568Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:21:55.383Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:21:55.409Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:21:55.414Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:21:55.423Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719a6e3a63dd490c71d6943"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:21:55.423Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719a6e3a63dd490c71d6943"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:21:55.428Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719a6e3a63dd490c71d6943 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:21:55.428Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719a6e3a63dd490c71d6943 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:21:55.429Z","module":"userService","funcName":"_updateGardenCenters","level":"error","message":"error Profile for 5719a6e3a63dd490c71d6943 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:21:55.433Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:22:58.527Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:22:58.555Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:22:58.560Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:22:58.571Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719a722e1fdd2b3c71c5d35"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:22:58.571Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719a722e1fdd2b3c71c5d35"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:22:58.577Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719a722e1fdd2b3c71c5d35 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:22:58.577Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719a722e1fdd2b3c71c5d35 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:22:58.578Z","module":"userService","funcName":"_updateGardenCenters","level":"error","message":"error Profile for 5719a722e1fdd2b3c71c5d35 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:22:58.583Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:23:27.249Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=undefined"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:23:27.252Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=undefined"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:23:27.291Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for undefined not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:23:27.292Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for undefined not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:23:27.293Z","module":"userService","funcName":"_updateGardenCenters","level":"error","message":"error Profile for undefined not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:23:39.198Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=aaaaaaaaaa"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:23:39.225Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for aaaaaaaaaa not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:23:39.232Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:23:39.240Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719a74beb7cb4cac775d70c"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:23:39.241Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719a74beb7cb4cac775d70c"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:23:39.244Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719a74beb7cb4cac775d70c not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:23:39.245Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719a74beb7cb4cac775d70c not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:23:39.245Z","module":"userService","funcName":"_updateGardenCenters","level":"error","message":"error Profile for 5719a74beb7cb4cac775d70c not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:23:39.252Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:26:40.843Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:26:40.877Z","module":"userRepository","funcName":"_addUser","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:26:40.884Z","module":"profileRepository","funcName":"_createProfile","level":"info","message":"info start userid=5719a8008b012114c88db504"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:26:40.898Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719a8008b012114c88db502"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:26:40.899Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719a8008b012114c88db502"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:26:40.903Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719a8008b012114c88db502 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:26:40.904Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719a8008b012114c88db502 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:26:40.904Z","module":"userService","funcName":"_updateGardenCenters","level":"error","message":"error Profile for 5719a8008b012114c88db502 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:26:40.909Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:27:36.502Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:27:36.519Z","module":"userRepository","funcName":"_addUser","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:28:49.735Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:28:49.771Z","module":"userRepository","funcName":"_addUser","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:28:49.796Z","module":"userRepository","funcName":"_addUser","level":"error","message":"error { [MongoError: E11000 duplicate key error collection: test_users.users index: email_1 dup key: { : \"josep32Hxn@yahoo.com\" }]\n  name: 'MongoError',\n  message: 'E11000 duplicate key error collection: test_users.users index: email_1 dup key: { : \"josep32Hxn@yahoo.com\" }',\n  driver: true,\n  code: 11000,\n  index: 0,\n  errmsg: 'E11000 duplicate key error collection: test_users.users index: email_1 dup key: { : \"josep32Hxn@yahoo.com\" }',\n  getOperation: [Function],\n  toJSON: [Function],\n  toString: [Function] }"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:28:49.797Z","module":"userService","funcName":"_addUser","level":"error","message":"error { [MongoError: E11000 duplicate key error collection: test_users.users index: email_1 dup key: { : \"josep32Hxn@yahoo.com\" }]\n  name: 'MongoError',\n  message: 'E11000 duplicate key error collection: test_users.users index: email_1 dup key: { : \"josep32Hxn@yahoo.com\" }',\n  driver: true,\n  code: 11000,\n  index: 0,\n  errmsg: 'E11000 duplicate key error collection: test_users.users index: email_1 dup key: { : \"josep32Hxn@yahoo.com\" }',\n  getOperation: [Function],\n  toJSON: [Function],\n  toString: [Function] }"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:28:49.799Z","module":"profileRepository","funcName":"_createProfile","level":"info","message":"info start userid=undefined"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:28:49.810Z","module":"profileRepository","funcName":"_addGardenCenter","level":"error","message":"error { [ValidationError: Profile validation failed]\n  message: 'Profile validation failed',\n  name: 'ValidationError',\n  errors: \n   { userId: \n      { [ValidatorError: Path `userId` is required.]\n        message: 'Path `userId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'userId',\n        value: undefined } } }"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:28:49.811Z","module":"userService","funcName":"_addUser","level":"error","message":"error { [ValidationError: Profile validation failed]\n  message: 'Profile validation failed',\n  name: 'ValidationError',\n  errors: \n   { userId: \n      { [ValidatorError: Path `userId` is required.]\n        message: 'Path `userId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'userId',\n        value: undefined } } }"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:28:49.811Z","module":"userRepository","funcName":"_deleteUser","level":"info","message":"info start email=josep32Hxn@yahoo.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:28:49.813Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:28:49.819Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:20.982Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:21.015Z","module":"userRepository","funcName":"_addUser","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:21.023Z","module":"profileRepository","funcName":"_createProfile","level":"info","message":"info start userid=undefined"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:21.046Z","module":"profileRepository","funcName":"_addGardenCenter","level":"error","message":"error { [ValidationError: Profile validation failed]\n  message: 'Profile validation failed',\n  name: 'ValidationError',\n  errors: \n   { userId: \n      { [ValidatorError: Path `userId` is required.]\n        message: 'Path `userId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'userId',\n        value: undefined } } }"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:21.047Z","module":"userService","funcName":"_addUser","level":"error","message":"error { [ValidationError: Profile validation failed]\n  message: 'Profile validation failed',\n  name: 'ValidationError',\n  errors: \n   { userId: \n      { [ValidatorError: Path `userId` is required.]\n        message: 'Path `userId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'userId',\n        value: undefined } } }"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:21.047Z","module":"userRepository","funcName":"_deleteUser","level":"info","message":"info start email=josep32Hxn@yahoo.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:21.053Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719a8a0a88d3856c81f3ae8"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:21.053Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719a8a0a88d3856c81f3ae8"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:21.060Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719a8a0a88d3856c81f3ae8 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:21.060Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719a8a0a88d3856c81f3ae8 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:21.060Z","module":"userService","funcName":"_updateGardenCenters","level":"error","message":"error Profile for 5719a8a0a88d3856c81f3ae8 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:21.064Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:28:11.685Z","module":"profileRepository","funcName":"_createProfile","level":"info","message":"info start userid=5719a838c997982dc8e90180"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:28:11.696Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719a838c997982dc8e9017e"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:28:11.696Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719a838c997982dc8e9017e"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:40.051Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719a838c997982dc8e9017e not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:40.051Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719a838c997982dc8e9017e not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:40.052Z","module":"userService","funcName":"_updateGardenCenters","level":"error","message":"error Profile for 5719a838c997982dc8e9017e not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:40.057Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:41.334Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:41.400Z","module":"userRepository","funcName":"_addUser","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:41.419Z","module":"profileRepository","funcName":"_createProfile","level":"info","message":"info start userid=undefined"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:41.456Z","module":"profileRepository","funcName":"_addGardenCenter","level":"error","message":"error { [ValidationError: Profile validation failed]\n  message: 'Profile validation failed',\n  name: 'ValidationError',\n  errors: \n   { userId: \n      { [ValidatorError: Path `userId` is required.]\n        message: 'Path `userId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'userId',\n        value: undefined } } }"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:41.457Z","module":"userService","funcName":"_addUser","level":"error","message":"error { [ValidationError: Profile validation failed]\n  message: 'Profile validation failed',\n  name: 'ValidationError',\n  errors: \n   { userId: \n      { [ValidatorError: Path `userId` is required.]\n        message: 'Path `userId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'userId',\n        value: undefined } } }"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:41.457Z","module":"userRepository","funcName":"_deleteUser","level":"info","message":"info start email=josep32Hxn@yahoo.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:41.464Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719a8b5a833cf61c81569e9"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:41.464Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719a8b5a833cf61c81569e9"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:41.471Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719a8b5a833cf61c81569e9 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:41.471Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719a8b5a833cf61c81569e9 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:41.472Z","module":"userService","funcName":"_updateGardenCenters","level":"error","message":"error Profile for 5719a8b5a833cf61c81569e9 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:29:41.476Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:33:53.231Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:33:53.253Z","module":"userRepository","funcName":"_addUser","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:34:00.307Z","module":"profileRepository","funcName":"_createProfile","level":"info","message":"info start userid=undefined"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:34:00.313Z","module":"profileRepository","funcName":"_addGardenCenter","level":"error","message":"error { [ValidationError: Profile validation failed]\n  message: 'Profile validation failed',\n  name: 'ValidationError',\n  errors: \n   { userId: \n      { [ValidatorError: Path `userId` is required.]\n        message: 'Path `userId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'userId',\n        value: undefined } } }"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:18.643Z","module":"userService","funcName":"_addUser","level":"error","message":"error { [ValidationError: Profile validation failed]\n  message: 'Profile validation failed',\n  name: 'ValidationError',\n  errors: \n   { userId: \n      { [ValidatorError: Path `userId` is required.]\n        message: 'Path `userId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'userId',\n        value: undefined } } }"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:28.711Z","module":"userRepository","funcName":"_deleteUser","level":"info","message":"info start email=josep32Hxn@yahoo.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:28.721Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719a9b194dbbdbcc89defb7"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:28.721Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719a9b194dbbdbcc89defb7"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:34.764Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719a9b194dbbdbcc89defb7 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:34.765Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719a9b194dbbdbcc89defb7 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:34.765Z","module":"userService","funcName":"_updateGardenCenters","level":"error","message":"error Profile for 5719a9b194dbbdbcc89defb7 not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:34.768Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:41.291Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:41.322Z","module":"userRepository","funcName":"_addUser","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:41.330Z","module":"profileRepository","funcName":"_createProfile","level":"info","message":"info start userid=undefined"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:41.353Z","module":"profileRepository","funcName":"_addGardenCenter","level":"error","message":"error { [ValidationError: Profile validation failed]\n  message: 'Profile validation failed',\n  name: 'ValidationError',\n  errors: \n   { userId: \n      { [ValidatorError: Path `userId` is required.]\n        message: 'Path `userId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'userId',\n        value: undefined } } }"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:41.354Z","module":"userService","funcName":"_addUser","level":"error","message":"error { [ValidationError: Profile validation failed]\n  message: 'Profile validation failed',\n  name: 'ValidationError',\n  errors: \n   { userId: \n      { [ValidatorError: Path `userId` is required.]\n        message: 'Path `userId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'userId',\n        value: undefined } } }"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:41.354Z","module":"userRepository","funcName":"_deleteUser","level":"info","message":"info start email=josep32Hxn@yahoo.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:41.359Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719aa1d1ee764e6c8c82e7a"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:41.360Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719aa1d1ee764e6c8c82e7a"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:41.365Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719aa1d1ee764e6c8c82e7a not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:41.366Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719aa1d1ee764e6c8c82e7a not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:41.367Z","module":"userService","funcName":"_updateGardenCenters","level":"error","message":"error Profile for 5719aa1d1ee764e6c8c82e7a not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:35:41.370Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:39:04.475Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:39:04.507Z","module":"userRepository","funcName":"_addUser","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:39:04.514Z","module":"profileRepository","funcName":"_createProfile","level":"info","message":"info start userid=5719aae88626f045c9ab5ac1"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:39:04.523Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719aae88626f045c9ab5abf"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:39:04.524Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719aae88626f045c9ab5abf"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:39:04.528Z","module":"profileRepository","funcName":"_getProfile","level":"error","message":"error Profile for 5719aae88626f045c9ab5abf not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:39:04.529Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"error","message":"error Profile for 5719aae88626f045c9ab5abf not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:39:04.530Z","module":"userService","funcName":"_updateGardenCenters","level":"error","message":"error Profile for 5719aae88626f045c9ab5abf not found."}
+{"service":"userManagementService","timestamp":"2016-04-22T04:39:04.541Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:40:15.797Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:40:15.828Z","module":"userRepository","funcName":"_addUser","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:40:15.836Z","module":"profileRepository","funcName":"_createProfile","level":"info","message":"info start userid=5719ab2f6434a569c96f4c60"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:40:15.844Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719ab2f6434a569c96f4c60"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:40:15.845Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719ab2f6434a569c96f4c60"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:40:15.863Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:44:54.852Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:44:54.883Z","module":"userRepository","funcName":"_addUser","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:44:54.891Z","module":"profileRepository","funcName":"_createProfile","level":"info","message":"info start userid=5719ac4610b2a9d2c9a1269e"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:44:54.901Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719ac4610b2a9d2c9a1269e"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:44:54.902Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719ac4610b2a9d2c9a1269e"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:44:54.921Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:44:54.929Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:01.877Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:01.910Z","module":"userRepository","funcName":"_addUser","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:01.917Z","module":"profileRepository","funcName":"_createProfile","level":"info","message":"info start userid=5719ac4dbd3387dcc90ac919"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:01.927Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719ac4dbd3387dcc90ac919"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:01.928Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719ac4dbd3387dcc90ac919"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:01.944Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:01.951Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:19.667Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:19.696Z","module":"userRepository","funcName":"_addUser","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:19.701Z","module":"profileRepository","funcName":"_createProfile","level":"info","message":"info start userid=5719ac5ff0b394ebc9134ba9"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:19.713Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719ac5ff0b394ebc9134ba9"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:19.713Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719ac5ff0b394ebc9134ba9"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:19.732Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:19.740Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:38.843Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:38.873Z","module":"userRepository","funcName":"_addUser","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:38.881Z","module":"profileRepository","funcName":"_createProfile","level":"info","message":"info start userid=5719ac725b0f59f9c9965141"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:38.889Z","module":"profileRepository","funcName":"_updateAllGardenCenters","level":"info","message":"info start userid=5719ac725b0f59f9c9965141"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:38.890Z","module":"profileRepository","funcName":"_getProfile","level":"info","message":"info start userid=5719ac725b0f59f9c9965141"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:38.908Z","module":"userRepository","funcName":"_getAllUsers","level":"info","message":"info start"}
+{"service":"userManagementService","timestamp":"2016-04-22T04:45:38.916Z","module":"userRepository","funcName":"_getUserByEmail","level":"info","message":"info start email=xbarrufetm@gmail.com"}
