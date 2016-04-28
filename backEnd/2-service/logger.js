@@ -6,7 +6,7 @@ var winston=require("winston");
 var log = new (winston.Logger)({
     transports: [
         new (winston.transports.Console)(),
-        new (winston.transports.File)({ filename: 'userManagementService.log' })
+        new (winston.transports.File)({ filename: 'backEndgAppMono.log' })
     ]
 });
 
@@ -18,6 +18,8 @@ function metadata(module,funcName) {
     res.funcName=funcName;
     return res;
 }
+
+
 
 var logger = function() {
 
