@@ -21,27 +21,27 @@ router.get('/', function(req, res) {
 // visit routes ==================================================================
 router.route('/user')
     .post(function(req, res) {
-        userService.addUser(req.body.user)
+        console.log(req.body);
+        userService.addUser(req.body)
             .then(function(docs) {
                 res.send(docs);
             }).fail(function(err) {
                 res.status(500).send(err);
             })
     })
-
-router.route('/user/validate')
-    .get(function(req, res) {
-        userService.validate(req.body.email,req.body.password)
-            .then(function(docs) {
-                res.send(docs);
-            }).fail(function(err) {
+    .get(function(req,res) {
+        userService.getUsers()
+        .then(function(docs) {
+            res.send(docs);
+        }).fail(function(err) {
             res.status(500).send(err);
         })
     })
 
-router.route('/user')
-    .post(function(req, res) {
-        userService.validate(req.body.email,req.body.password)
+router.route('/user/validate')
+    .get(function(req, res) {
+        console.log("email=" +req.query.email)
+        userService.validate(req.query.email,req.query.password)
             .then(function(docs) {
                 res.send(docs);
             }).fail(function(err) {
@@ -87,6 +87,7 @@ router.post('/file', multer({
         });
     });
 });*/
+
 
 
 

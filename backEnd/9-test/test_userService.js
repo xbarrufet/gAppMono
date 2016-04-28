@@ -3,10 +3,6 @@
  */
 var should=require("should");
 
-
-
-var logger = require('../2-service/logger');
-
 var userRepository = require("../3-repository/userRepository");
 var profileRepository = require("../3-repository/profileRepository");
 var userService = require("../2-service/userService");
@@ -15,7 +11,7 @@ var sampleData =require("./sampleData");
 
 process.env.NODE_ENV = 'test';
 var mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost/test_users');
+mongoose.connect('mongodb://localhost/test_gAppMono');
 
 var userId1,userId2,userId3;
 before(function() {

@@ -6,6 +6,7 @@ var logger = require('../2-service/logger');
 var Q = require('Q');
 var userRepository = require("../3-repository/userRepository");
 var profileRepository = require("../3-repository/profileRepository");
+var tools = require("../8-tools/tools");
 
 var userService = function() {
 
@@ -94,6 +95,12 @@ var userService = function() {
     var _addUser = function(user) {
         var deferred = Q.defer();
         logger.debug("start","userService","_addUser");
+        logger.debug("tranform userDTO to user","userService","_addUser");
+
+        var errV=validateUser(user)
+        if(errV!=null)
+            deferred.reject(errV);
+
         userRepository.addUser(user,function(err,vUser) {
             if (err) {
                 logger.error(err, "userService", "_addUser");
@@ -144,13 +151,65 @@ function deleteUser(userId) {
         }
     })
 }
-function userDTO(user) {
+
+
+
+
+function mapUserDTO(user) {
     var res ={};
-    res.id=user.id;
-    res.name=user.name;
-    res.email=user.email;
-    res.type=user.type;
-    res.admin=user.admin;
+    if("id" in user) {
+        res.id=user.id;
+    }
+    if("name" in user) {
+        res.name=user.name;
+    }
+    if("email" in user) {
+        res.email=user.email;
+    }
+    if("type" in user) {
+        res.type=user.type;
+    }
+    if("type" in user) {
+        res.typeuser.type;
+    }
+    return res;
+}
+
+function validateUser(user) {
+
+    if(!("name" in user)) {
+        return "name is not present."
+    }
+    if(!("email" in user)) {
+        return "email is not present."
+    }
+    if(!(tools.emailValidation(user.email))) {
+        return "email is not correct."
+    }
+    if(!("type" in user)) {
+        return "user type is not present."
+    }
+    return null;
+
+}
+
+/*function mapDTOUser(userDTO) {
+    var res ={};
+    if("id" in user) {
+        res.id=user.id;
+    }
+    if("name" in user) {
+        res.name=user.name;
+    }
+    if("email" in user) {
+        res.email=user.email;
+    }
+    if("type" in user) {
+        res.type=user.type;
+    }
+    if("type" in user) {
+        res.typeuser.type;
+    }
     return res;
 }
 
@@ -160,7 +219,7 @@ function profileDTO(profile) {
     res.garden=profile.garden;
     res.gardenCenter=user.gardenCenter;
     return res;
-}
+}*/
 
 module.exports = userService;
 

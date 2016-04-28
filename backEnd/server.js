@@ -11,12 +11,12 @@ var router = require('./1-app/routes');
 var logger = require('./2-service/logger');
 var multer  = require('multer');
 var port    =   process.env.PORT || 3000;
+var bodyParser = require('body-parser');
 
-
-// ROUTES
-// ==============================================
-// apply the routes to our application /api
-app.use('/api', router);
+// configure app to use bodyParser()
+// this will let us get the data from a POST
+app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.json());
 
 
 
@@ -26,10 +26,17 @@ app.use(function(err, req, res, next) {
     res.send(500);
 });
 
+
+// ROUTES
+// ==============================================
+// apply the routes to our application /api
+app.use('/api', router);
+
+
 //Connect to DB
 var env = process.env.NODE_ENV || 'development';
 if ('development' == env) {
-    mongoose.connect('mongodb://127.0.0.1/visits', function onMongooseError(err) {
+    mongoose.connect('mongodb://127.0.0.1/gAppMono', function onMongooseError(err) {
         if(err)
             logger.error("Error connecting to DEV DB " + err);
     });
@@ -37,7 +44,7 @@ if ('development' == env) {
 
 if ('test' == env) {
     console.log('test env connection mongo');
-    mongoose.connect('mongodb://127.0.0.1/test_visits', function onMongooseError(err) {
+    mongoose.connect('mongodb://127.0.0.1/test_gAppMono', function onMongooseError(err) {
        if(err)
            logger.error("Error connecting to test DB " + err);
         

@@ -13,12 +13,7 @@ var userRepository = function() {
         name: String,
         email: { type : String , unique : true, required : true, dropDups: true },
         password:{ type : String, required: true},
-        admin: { type : Boolean, default: false},
-        type:{ type:  String , default : TYPE_GARDEN },
-        audit: {
-            dateCreated:Date,
-            dateUpdated:Date
-        }
+        type:{ type:  String , default : TYPE_GARDEN }
 
     });
 
@@ -94,12 +89,7 @@ var userRepository = function() {
             name: newUser.name,
             email: newUser.email,
             password: newUser.password,
-            admin: newUser.admin,
-            type:newUser.type,
-            audit:{
-                dateCreated:new Date(),
-                dateUpdatede:new Date()
-            }
+            type:newUser.type
         });
         _model.create(user,
             function (err, vUser) {
