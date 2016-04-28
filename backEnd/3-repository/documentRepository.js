@@ -8,15 +8,19 @@ var documentRepository = function() {
     var Schema = require('mongoose').Schema;
  
     var _documentSchema = new Schema({
-        data: Buffer, type: String. gardeId:String 
+        data: Buffer,
+        contentType:String,
+        date:Date,
+        metadata: mixed:Schema.Types.Mixed
     })
     var _model = mongoose.model('Document', _documentSchema);
     
-    var _putFile=function(path,type,gardenId,callback) {
-         var doc =({
-            type: type,
-            gardenid: gardenId,
-            data: fs.readFileSync(path)
+    var _putFile=function(stream,contentType,metadata,callback) {
+         var doc =({            
+            data: stream,
+            contentType:contentType,
+            date:new Date(),
+            metadata:metadata
         });
         _model.create(doc,
             function (err, vDoc) {

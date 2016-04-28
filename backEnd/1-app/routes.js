@@ -3,6 +3,8 @@
 var express    = require('express');
 var logger    = require('../2-service/logger');
 var userService    = require('../2-service/userService');
+var DMService    = require('../2-service/documentManagementService');
+var interventionService    = require('../2-service/interventionService');
 
 var router = express.Router(); 				// get an instance of the express Router
 
@@ -47,21 +49,44 @@ router.route('/user')
         })
     })
 
-router.route('/files')
+router.post('/file', multer({
+  dest: './imgs',
+  rename: function (fieldname, filename) {
+    return fieldname;
+  },
+  onFileUploadStart: function (file) {
+    console.log(file.originalname + ' is starting ...')
+  },
+  limits: {
+    files: 1
+  },
+  onFileUploadComplete: function (file) {    
+    console.log(file.fieldname + ' uploaded to  ' + file.path )
+    console.log(file.mimetype)
+  }
+}), function(req, res) {
+  // Here you can check `Object.keys(req.files).length`
+  // or for specific fields like `req.files.imageField`
+  res.redirect('/');
+});
+
+
+
+/*router.route('/files')
 .post(function(req,res) {
     var tmp_path = req.files.file.path;
     var tmp_name = req.files.file.name;
     
     fs.rename(tmp_path, target_path, function(err) {
-        if (err) throw err;
-        
+        if (err) res.status(500).send(err);
         // delete the temporary file, so that the explicitly set temporary upload dir does not get filled with unwanted files
+        DMService.putFileFromPath(req.files.file.path
         fs.unlink(tmp_path, function() {
             if (err) throw err;
             res.send('File uploaded to: ' + target_path + ' - ' + req.files.thumbnail.size + ' bytes');
         });
     });
-});
+});*/
 
 
 

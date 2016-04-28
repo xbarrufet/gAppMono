@@ -9,6 +9,7 @@ var mongoose = require('mongoose');
 var winston = require('winston');
 var router = require('./1-app/routes');
 var logger = require('./2-service/logger');
+var multer  = require('multer');
 var port    =   process.env.PORT || 3000;
 
 
@@ -16,6 +17,8 @@ var port    =   process.env.PORT || 3000;
 // ==============================================
 // apply the routes to our application /api
 app.use('/api', router);
+
+
 
 // ERROR HANDLING
 app.use(function(err, req, res, next) {
