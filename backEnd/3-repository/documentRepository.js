@@ -11,7 +11,7 @@ var documentRepository = function() {
         data: Buffer,
         contentType:String,
         date:Date,
-        metadata: mixed:Schema.Types.Mixed
+        metadata: Schema.Types.Mixed
     })
     var _model = mongoose.model('Document', _documentSchema);
     

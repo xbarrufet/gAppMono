@@ -1,10 +1,7 @@
 var logger = require('../2-service/logger');
-var documentRepository = require('../2-service/documentRepository');
+var documentRepository = require('../3-repository/documentRepository');
 var fs=require("fs")
 var Q = require('Q');
-
-
-
 
 
 var documentManagementService = function() {
@@ -12,13 +9,14 @@ var documentManagementService = function() {
     var _putFileFromPath= function(path,contentType,metadata) {
        var deferred = Q.defer();
        logger.debug("start path=" + path,"documentManagementService","_putFileFromPath");
-       documentRepository.putFile(    fs.readFileSync(path),contentType,metadata,function(err,doc) {
+       documentRepository.putFile(fs.readFileSync(path),contentType,metadata,function(err,doc) {
             if (err) {
                 logger.error(err, "documentManagementService", "_putFileFromPath");
                 deferred.reject(err);
             }
             deferred.resolve(doc.id);
         });
+        return deferred.promise;
     }
     
     var _putFileFromStream= function(stream,contentType,metadataHash) {
@@ -31,6 +29,7 @@ var documentManagementService = function() {
             }
             deferred.resolve(doc.id);
         });
+        return deferred.promise;
     }
     
     var _getFile= function(fileId) {
@@ -43,6 +42,7 @@ var documentManagementService = function() {
             }
             deferred.resolve(doc);
         });
+        return deferred.promise;
     }
     
         
@@ -54,4 +54,4 @@ return {
 
 }()
 
-moddule.exports=documentManagementService
+module.exports=documentManagementService

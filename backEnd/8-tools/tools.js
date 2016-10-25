@@ -11,8 +11,14 @@ var tools = function() {
 
     }
 
+    var _addDays=function(date,days) {
+        var dateOk = new Date(date);
+        return new Date().setDate(dateOk.getDate()+days);
+    }
+
     return {
-        emailValidation:_emailValidation
+        emailValidation:_emailValidation,
+        addDays:_addDays
     }
 }()
 

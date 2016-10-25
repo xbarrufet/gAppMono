@@ -1,0 +1,376 @@
+{"timestamp":"2016-05-11T15:44:17.461Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:17.610Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=aaaaaaaaaaaaaaaaeaaaaaaa"}
+{"timestamp":"2016-05-11T15:44:17.628Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=57335351635f80ae41281bf4"}
+{"timestamp":"2016-05-11T15:44:17.642Z","module":"gardenCenterRepository","funcName":"_getGardenCenters","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:17.656Z","module":"gardenCenterRepository","funcName":"_updateGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:17.675Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:17.711Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:17.731Z","module":"clientGardenRepository","funcName":"_updateClient","level":"info","message":"info start clientId=57335351635f80ae41281bf6"}
+{"timestamp":"2016-05-11T15:44:17.740Z","module":"clientGardenRepository","funcName":"_getClientById","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:17.759Z","module":"clientGardenRepository","funcName":"_addgarden","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:17.786Z","module":"clientGardenRepository","funcName":"_addgarden","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:17.801Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:17.809Z","module":"gardenRepository","funcName":"_updateGarden","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:17.824Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:17.830Z","module":"gardenRepository","funcName":"_updateGarden","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:17.840Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:17.845Z","module":"gardenRepository","funcName":"_updateGarden","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:17.862Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:17.868Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:17.957Z","module":"conversationRepository","funcName":"_createConversation","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.013Z","module":"specialTaskRepository","funcName":"_getSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.016Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.025Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.031Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.034Z","module":"conversationRepository","funcName":"_createConversation","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.038Z","module":"specialTaskRepository","funcName":"_getSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.040Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.052Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57335351635f80ae41281c07"}
+{"timestamp":"2016-05-11T15:44:18.073Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57335351635f80ae41281c07"}
+{"timestamp":"2016-05-11T15:44:18.081Z","module":"conversationRepository","funcName":"_setPendingApprovalFlag","level":"info","message":"info start conversationId=57335351635f80ae41281c07"}
+{"timestamp":"2016-05-11T15:44:18.095Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57335351635f80ae41281c07"}
+{"timestamp":"2016-05-11T15:44:18.105Z","module":"conversationRepository","funcName":"_setPendingApprovalFlag","level":"info","message":"info start conversationId=57335351635f80ae41281c07"}
+{"timestamp":"2016-05-11T15:44:18.117Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57335351635f80ae41281c07"}
+{"timestamp":"2016-05-11T15:44:18.129Z","module":"conversationRepository","funcName":"_setPendingApprovalFlag","level":"info","message":"info start conversationId=57335351635f80ae41281c07"}
+{"timestamp":"2016-05-11T15:44:18.145Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57335351635f80ae41281c07"}
+{"timestamp":"2016-05-11T15:44:18.161Z","module":"specialTaskRepository","funcName":"_getSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.164Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.170Z","module":"conversationRepository","funcName":"_setPendingApprovalFlag","level":"info","message":"info start conversationId=57335351635f80ae41281c07"}
+{"timestamp":"2016-05-11T15:44:18.181Z","module":"specialTaskRepository","funcName":"_getSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.236Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57335352635f80ae41281c09"}
+{"timestamp":"2016-05-11T15:44:18.251Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.252Z","module":"scheduleRepository","funcName":"_getSchedule","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.271Z","module":"specialTaskRepository","funcName":"_getSpecialTaskByGarden","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.272Z","module":"specialTaskRepository","funcName":"_getSpecialTaskByGarden","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.295Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.309Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.407Z","module":"scheduleRepository","funcName":"_getSchedule","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.430Z","module":"scheduleRepository","funcName":"_getScheduleByGardenId","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.442Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.491Z","module":"scheduleRepository","funcName":"_updateTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.507Z","module":"scheduleRepository","funcName":"_getScheduleByGardenId","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.516Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.527Z","module":"scheduleRepository","funcName":"_updateTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.539Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.556Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.574Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.592Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.607Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.620Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.635Z","module":"scheduleRepository","funcName":"_getVisitsByTaskId","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.652Z","module":"scheduleRepository","funcName":"_upadteVisit","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T15:44:18.659Z","module":"scheduleRepository","funcName":"_getVisitsByTaskId","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.303Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.424Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=aaaaaaaaaaaaaaaaeaaaaaaa"}
+{"timestamp":"2016-05-11T17:45:34.443Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=57336fbe0c7dffe84b00a687"}
+{"timestamp":"2016-05-11T17:45:34.456Z","module":"gardenCenterRepository","funcName":"_getGardenCenters","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.468Z","module":"gardenCenterRepository","funcName":"_updateGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.484Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.511Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.529Z","module":"clientGardenRepository","funcName":"_updateClient","level":"info","message":"info start clientId=57336fbe0c7dffe84b00a689"}
+{"timestamp":"2016-05-11T17:45:34.538Z","module":"clientGardenRepository","funcName":"_getClientById","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.567Z","module":"clientGardenRepository","funcName":"_addgarden","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.596Z","module":"clientGardenRepository","funcName":"_addgarden","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.612Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.620Z","module":"gardenRepository","funcName":"_updateGarden","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.635Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.643Z","module":"gardenRepository","funcName":"_updateGarden","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.652Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.658Z","module":"gardenRepository","funcName":"_updateGarden","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.672Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.680Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.733Z","module":"conversationRepository","funcName":"_createConversation","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.744Z","module":"specialTaskRepository","funcName":"_getSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.748Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.757Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.764Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.768Z","module":"conversationRepository","funcName":"_createConversation","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.772Z","module":"specialTaskRepository","funcName":"_getSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.774Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.786Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57336fbe0c7dffe84b00a69a"}
+{"timestamp":"2016-05-11T17:45:34.809Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57336fbe0c7dffe84b00a69a"}
+{"timestamp":"2016-05-11T17:45:34.819Z","module":"conversationRepository","funcName":"_setPendingApprovalFlag","level":"info","message":"info start conversationId=57336fbe0c7dffe84b00a69a"}
+{"timestamp":"2016-05-11T17:45:34.830Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57336fbe0c7dffe84b00a69a"}
+{"timestamp":"2016-05-11T17:45:34.841Z","module":"conversationRepository","funcName":"_setPendingApprovalFlag","level":"info","message":"info start conversationId=57336fbe0c7dffe84b00a69a"}
+{"timestamp":"2016-05-11T17:45:34.854Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57336fbe0c7dffe84b00a69a"}
+{"timestamp":"2016-05-11T17:45:34.869Z","module":"conversationRepository","funcName":"_setPendingApprovalFlag","level":"info","message":"info start conversationId=57336fbe0c7dffe84b00a69a"}
+{"timestamp":"2016-05-11T17:45:34.884Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57336fbe0c7dffe84b00a69a"}
+{"timestamp":"2016-05-11T17:45:34.898Z","module":"specialTaskRepository","funcName":"_getSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.900Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.903Z","module":"conversationRepository","funcName":"_setPendingApprovalFlag","level":"info","message":"info start conversationId=57336fbe0c7dffe84b00a69a"}
+{"timestamp":"2016-05-11T17:45:34.914Z","module":"specialTaskRepository","funcName":"_getSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.965Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57336fbe0c7dffe84b00a69c"}
+{"timestamp":"2016-05-11T17:45:34.978Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.979Z","module":"scheduleRepository","funcName":"_getSchedule","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.995Z","module":"specialTaskRepository","funcName":"_getSpecialTaskByGarden","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:34.996Z","module":"specialTaskRepository","funcName":"_getSpecialTaskByGarden","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.012Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.025Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.082Z","module":"scheduleRepository","funcName":"_getSchedule","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.106Z","module":"scheduleRepository","funcName":"_getScheduleByGardenId","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.117Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.146Z","module":"scheduleRepository","funcName":"_updateTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.170Z","module":"scheduleRepository","funcName":"_getScheduleByGardenId","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.179Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.192Z","module":"scheduleRepository","funcName":"_updateTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.202Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.218Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.238Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.253Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.271Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.285Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.299Z","module":"scheduleRepository","funcName":"_getVisitsByTaskId","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.316Z","module":"scheduleRepository","funcName":"_upadteVisit","level":"info","message":"info start"}
+{"timestamp":"2016-05-11T17:45:35.322Z","module":"scheduleRepository","funcName":"_getVisitsByTaskId","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:04.732Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:04.829Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=aaaaaaaaaaaaaaaaeaaaaaaa"}
+{"timestamp":"2016-07-14T03:25:04.890Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=57870610bc1aa08904ea2146"}
+{"timestamp":"2016-07-14T03:25:04.919Z","module":"gardenCenterRepository","funcName":"_getGardenCenters","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:04.939Z","module":"gardenCenterRepository","funcName":"_updateGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:04.975Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.017Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.042Z","module":"clientGardenRepository","funcName":"_updateClient","level":"info","message":"info start clientId=57870611bc1aa08904ea2148"}
+{"timestamp":"2016-07-14T03:25:05.072Z","module":"clientGardenRepository","funcName":"_getClientById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.113Z","module":"clientGardenRepository","funcName":"_addgarden","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.146Z","module":"clientGardenRepository","funcName":"_addgarden","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.188Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.205Z","module":"gardenRepository","funcName":"_updateGarden","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.227Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.237Z","module":"gardenRepository","funcName":"_updateGarden","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.249Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.262Z","module":"gardenRepository","funcName":"_updateGarden","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.289Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.299Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.326Z","module":"conversationRepository","funcName":"_createConversation","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.370Z","module":"specialTaskRepository","funcName":"_getSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.376Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.390Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.408Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.413Z","module":"conversationRepository","funcName":"_createConversation","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.419Z","module":"specialTaskRepository","funcName":"_getSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.425Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.440Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57870611bc1aa08904ea2159"}
+{"timestamp":"2016-07-14T03:25:05.506Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57870611bc1aa08904ea2159"}
+{"timestamp":"2016-07-14T03:25:05.528Z","module":"conversationRepository","funcName":"_setPendingApprovalFlag","level":"info","message":"info start conversationId=57870611bc1aa08904ea2159"}
+{"timestamp":"2016-07-14T03:25:05.550Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57870611bc1aa08904ea2159"}
+{"timestamp":"2016-07-14T03:25:05.566Z","module":"conversationRepository","funcName":"_setPendingApprovalFlag","level":"info","message":"info start conversationId=57870611bc1aa08904ea2159"}
+{"timestamp":"2016-07-14T03:25:05.592Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57870611bc1aa08904ea2159"}
+{"timestamp":"2016-07-14T03:25:05.613Z","module":"conversationRepository","funcName":"_setPendingApprovalFlag","level":"info","message":"info start conversationId=57870611bc1aa08904ea2159"}
+{"timestamp":"2016-07-14T03:25:05.641Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57870611bc1aa08904ea2159"}
+{"timestamp":"2016-07-14T03:25:05.661Z","module":"specialTaskRepository","funcName":"_getSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.669Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.680Z","module":"conversationRepository","funcName":"_setPendingApprovalFlag","level":"info","message":"info start conversationId=57870611bc1aa08904ea2159"}
+{"timestamp":"2016-07-14T03:25:05.696Z","module":"specialTaskRepository","funcName":"_getSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.821Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57870611bc1aa08904ea215b"}
+{"timestamp":"2016-07-14T03:25:05.849Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.849Z","module":"scheduleRepository","funcName":"_getSchedule","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.872Z","module":"specialTaskRepository","funcName":"_getSpecialTaskByGarden","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.874Z","module":"specialTaskRepository","funcName":"_getSpecialTaskByGarden","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.899Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.919Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:05.972Z","module":"scheduleRepository","funcName":"_getSchedule","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:06.016Z","module":"scheduleRepository","funcName":"_getScheduleByGardenId","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:06.032Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:06.111Z","module":"scheduleRepository","funcName":"_updateTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:06.153Z","module":"scheduleRepository","funcName":"_getScheduleByGardenId","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:06.161Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:06.196Z","module":"scheduleRepository","funcName":"_updateTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:06.214Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:06.238Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:06.258Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:06.287Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:06.312Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:06.360Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:06.409Z","module":"scheduleRepository","funcName":"_getVisitsByTaskId","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:06.440Z","module":"scheduleRepository","funcName":"_upadteVisit","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:06.459Z","module":"scheduleRepository","funcName":"_getVisitsByTaskId","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T03:25:06.471Z","module":"scheduleRepository","funcName":"_upadteVisit","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.511Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.577Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=aaaaaaaaaaaaaaaaeaaaaaaa"}
+{"timestamp":"2016-07-14T04:05:31.594Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=57870f8bccb4a5090a9a6478"}
+{"timestamp":"2016-07-14T04:05:31.608Z","module":"gardenCenterRepository","funcName":"_getGardenCenters","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.622Z","module":"gardenCenterRepository","funcName":"_updateGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.643Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.675Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.692Z","module":"clientGardenRepository","funcName":"_updateClient","level":"info","message":"info start clientId=57870f8bccb4a5090a9a647a"}
+{"timestamp":"2016-07-14T04:05:31.704Z","module":"clientGardenRepository","funcName":"_getClientById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.738Z","module":"clientGardenRepository","funcName":"_addgarden","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.768Z","module":"clientGardenRepository","funcName":"_addgarden","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.788Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.795Z","module":"gardenRepository","funcName":"_updateGarden","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.818Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.825Z","module":"gardenRepository","funcName":"_updateGarden","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.838Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.844Z","module":"gardenRepository","funcName":"_updateGarden","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.861Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.868Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.891Z","module":"conversationRepository","funcName":"_createConversation","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.913Z","module":"specialTaskRepository","funcName":"_getSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.918Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.928Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.932Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.936Z","module":"conversationRepository","funcName":"_createConversation","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.940Z","module":"specialTaskRepository","funcName":"_getSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.942Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:31.967Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57870f8bccb4a5090a9a648b"}
+{"timestamp":"2016-07-14T04:05:31.989Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57870f8bccb4a5090a9a648b"}
+{"timestamp":"2016-07-14T04:05:32.001Z","module":"conversationRepository","funcName":"_setPendingApprovalFlag","level":"info","message":"info start conversationId=57870f8bccb4a5090a9a648b"}
+{"timestamp":"2016-07-14T04:05:32.015Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57870f8bccb4a5090a9a648b"}
+{"timestamp":"2016-07-14T04:05:32.024Z","module":"conversationRepository","funcName":"_setPendingApprovalFlag","level":"info","message":"info start conversationId=57870f8bccb4a5090a9a648b"}
+{"timestamp":"2016-07-14T04:05:32.036Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57870f8bccb4a5090a9a648b"}
+{"timestamp":"2016-07-14T04:05:32.050Z","module":"conversationRepository","funcName":"_setPendingApprovalFlag","level":"info","message":"info start conversationId=57870f8bccb4a5090a9a648b"}
+{"timestamp":"2016-07-14T04:05:32.067Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57870f8bccb4a5090a9a648b"}
+{"timestamp":"2016-07-14T04:05:32.080Z","module":"specialTaskRepository","funcName":"_getSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.083Z","module":"specialTaskRepository","funcName":"_addSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.089Z","module":"conversationRepository","funcName":"_setPendingApprovalFlag","level":"info","message":"info start conversationId=57870f8bccb4a5090a9a648b"}
+{"timestamp":"2016-07-14T04:05:32.107Z","module":"specialTaskRepository","funcName":"_getSpecialTask","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.168Z","module":"conversationRepository","funcName":"_addComment","level":"info","message":"info start conversationId=57870f8bccb4a5090a9a648d"}
+{"timestamp":"2016-07-14T04:05:32.186Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.186Z","module":"scheduleRepository","funcName":"_getSchedule","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.201Z","module":"specialTaskRepository","funcName":"_getSpecialTaskByGarden","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.203Z","module":"specialTaskRepository","funcName":"_getSpecialTaskByGarden","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.237Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.255Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.303Z","module":"scheduleRepository","funcName":"_getSchedule","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.333Z","module":"scheduleRepository","funcName":"_getScheduleByGardenId","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.350Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.391Z","module":"scheduleRepository","funcName":"_updateTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.410Z","module":"scheduleRepository","funcName":"_getScheduleByGardenId","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.420Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.439Z","module":"scheduleRepository","funcName":"_updateTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.462Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.482Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.506Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.522Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.545Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.558Z","module":"scheduleRepository","funcName":"_updateVisitTaskStatus","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.571Z","module":"scheduleRepository","funcName":"_getVisitsByTaskId","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.590Z","module":"scheduleRepository","funcName":"_upadteVisit","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.598Z","module":"scheduleRepository","funcName":"_getVisitsByTaskId","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:32.610Z","module":"scheduleRepository","funcName":"_upadteVisit","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:48.552Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:48.594Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:48.613Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=57870f9c6023c8140ad44993"}
+{"timestamp":"2016-07-14T04:05:48.661Z","module":"gardenCenterRepository","funcName":"_updateGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:48.682Z","module":"gardenCenterRepository","funcName":"_getGardenCenters","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:48.694Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:48.728Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:48.734Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:48.741Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:48.754Z","module":"clientGardenRepository","funcName":"_getClientById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:48.840Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:48.873Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:48.888Z","module":"scheduleRepository","funcName":"_getSchedule","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:48.924Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:48.924Z","module":"scheduleRepository","funcName":"_getSchedule","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:05:48.960Z","module":"scheduleRepository","funcName":"_getScheduleByGardenId","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:11:08.081Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:11:27.558Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:11:29.588Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:11:31.597Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=undefined"}
+{"timestamp":"2016-07-14T04:11:33.608Z","module":"gardenCenterRepository","funcName":"_updateGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:11:35.615Z","module":"gardenCenterRepository","funcName":"_getGardenCenters","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:13:56.230Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:13:58.230Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:14:00.235Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=undefined"}
+{"timestamp":"2016-07-14T04:14:02.240Z","module":"gardenCenterRepository","funcName":"_updateGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:14:04.242Z","module":"gardenCenterRepository","funcName":"_getGardenCenters","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:16:32.985Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:17:36.346Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:18:36.744Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:20:08.520Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:20:08.581Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=aaaaaaaaaaaaaaaaeaaaaaaa"}
+{"timestamp":"2016-07-14T04:20:08.618Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=578712f8da4acdcc0cadc45b"}
+{"timestamp":"2016-07-14T04:20:08.635Z","module":"gardenCenterRepository","funcName":"_getGardenCenters","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:20:08.655Z","module":"gardenCenterRepository","funcName":"_updateGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:32:30.499Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:32:30.566Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:32:30.586Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=578715de0c8d407f0e803def"}
+{"timestamp":"2016-07-14T04:32:30.633Z","module":"gardenCenterRepository","funcName":"_updateGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:32:30.652Z","module":"gardenCenterRepository","funcName":"_getGardenCenters","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:36:23.810Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:36:23.860Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:36:23.872Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=578716c7ff801b110fed5935"}
+{"timestamp":"2016-07-14T04:36:23.898Z","module":"gardenCenterRepository","funcName":"_updateGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:36:23.913Z","module":"gardenCenterRepository","funcName":"_getGardenCenters","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:36:28.584Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:36:28.635Z","module":"clientGardenRepository","funcName":"_addClient","level":"error","message":"error { [ValidationError: ClientGarden validation failed]\n  message: 'ClientGarden validation failed',\n  name: 'ValidationError',\n  errors: \n   { gardenCenterId: \n      { [ValidatorError: Path `gardenCenterId` is required.]\n        message: 'Path `gardenCenterId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'gardenCenterId',\n        value: undefined } } }"}
+{"timestamp":"2016-07-14T04:36:28.636Z","module":"clientGardenService","funcName":"_addClient","level":"error","message":"error { [ValidationError: ClientGarden validation failed]\n  message: 'ClientGarden validation failed',\n  name: 'ValidationError',\n  errors: \n   { gardenCenterId: \n      { [ValidatorError: Path `gardenCenterId` is required.]\n        message: 'Path `gardenCenterId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'gardenCenterId',\n        value: undefined } } }"}
+{"timestamp":"2016-07-14T04:36:28.653Z","module":"clientGardenRepository","funcName":"_getClientById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:36:42.979Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:36:50.528Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:36:50.531Z","module":"scheduleRepository","funcName":"_getSchedule","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:36:50.556Z","module":"scheduleRepository","funcName":"_addScheduledService","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:36:50.557Z","module":"scheduleRepository","funcName":"_getSchedule","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:37:18.856Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:37:18.886Z","module":"clientGardenRepository","funcName":"_addClient","level":"error","message":"error { [ValidationError: ClientGarden validation failed]\n  message: 'ClientGarden validation failed',\n  name: 'ValidationError',\n  errors: \n   { gardenCenterId: \n      { [ValidatorError: Path `gardenCenterId` is required.]\n        message: 'Path `gardenCenterId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'gardenCenterId',\n        value: undefined } } }"}
+{"timestamp":"2016-07-14T04:37:18.887Z","module":"clientGardenService","funcName":"_addClient","level":"error","message":"error { [ValidationError: ClientGarden validation failed]\n  message: 'ClientGarden validation failed',\n  name: 'ValidationError',\n  errors: \n   { gardenCenterId: \n      { [ValidatorError: Path `gardenCenterId` is required.]\n        message: 'Path `gardenCenterId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'gardenCenterId',\n        value: undefined } } }"}
+{"timestamp":"2016-07-14T04:37:18.903Z","module":"clientGardenRepository","funcName":"_getClientById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:37:22.718Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:37:22.750Z","module":"clientGardenRepository","funcName":"_addClient","level":"error","message":"error { [ValidationError: ClientGarden validation failed]\n  message: 'ClientGarden validation failed',\n  name: 'ValidationError',\n  errors: \n   { gardenCenterId: \n      { [ValidatorError: Path `gardenCenterId` is required.]\n        message: 'Path `gardenCenterId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'gardenCenterId',\n        value: undefined } } }"}
+{"timestamp":"2016-07-14T04:37:22.751Z","module":"clientGardenService","funcName":"_addClient","level":"error","message":"error { [ValidationError: ClientGarden validation failed]\n  message: 'ClientGarden validation failed',\n  name: 'ValidationError',\n  errors: \n   { gardenCenterId: \n      { [ValidatorError: Path `gardenCenterId` is required.]\n        message: 'Path `gardenCenterId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'gardenCenterId',\n        value: undefined } } }"}
+{"timestamp":"2016-07-14T04:41:24.139Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:41:24.151Z","module":"clientGardenRepository","funcName":"_addClient","level":"error","message":"error { [ValidationError: ClientGarden validation failed]\n  message: 'ClientGarden validation failed',\n  name: 'ValidationError',\n  errors: \n   { gardenCenterId: \n      { [ValidatorError: Path `gardenCenterId` is required.]\n        message: 'Path `gardenCenterId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'gardenCenterId',\n        value: undefined } } }"}
+{"timestamp":"2016-07-14T04:41:24.153Z","module":"clientGardenService","funcName":"_addClient","level":"error","message":"error { [ValidationError: ClientGarden validation failed]\n  message: 'ClientGarden validation failed',\n  name: 'ValidationError',\n  errors: \n   { gardenCenterId: \n      { [ValidatorError: Path `gardenCenterId` is required.]\n        message: 'Path `gardenCenterId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'gardenCenterId',\n        value: undefined } } }"}
+{"timestamp":"2016-07-14T04:42:54.759Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:42:54.776Z","module":"clientGardenRepository","funcName":"_addClient","level":"error","message":"error { [ValidationError: ClientGarden validation failed]\n  message: 'ClientGarden validation failed',\n  name: 'ValidationError',\n  errors: \n   { gardenCenterId: \n      { [ValidatorError: Path `gardenCenterId` is required.]\n        message: 'Path `gardenCenterId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'gardenCenterId',\n        value: undefined } } }"}
+{"timestamp":"2016-07-14T04:42:54.777Z","module":"clientGardenService","funcName":"_addClient","level":"error","message":"error { [ValidationError: ClientGarden validation failed]\n  message: 'ClientGarden validation failed',\n  name: 'ValidationError',\n  errors: \n   { gardenCenterId: \n      { [ValidatorError: Path `gardenCenterId` is required.]\n        message: 'Path `gardenCenterId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'gardenCenterId',\n        value: undefined } } }"}
+{"timestamp":"2016-07-14T04:42:54.789Z","module":"clientGardenRepository","funcName":"_getClientById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:49:02.496Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:49:02.545Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:49:02.557Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=578719be5c629df710a61dba"}
+{"timestamp":"2016-07-14T04:49:02.582Z","module":"gardenCenterRepository","funcName":"_updateGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:49:02.597Z","module":"gardenCenterRepository","funcName":"_getGardenCenters","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:54:58.515Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:54:58.563Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:54:58.575Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=57871b22a26e6ac111e3d7f4"}
+{"timestamp":"2016-07-14T04:54:58.602Z","module":"gardenCenterRepository","funcName":"_updateGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:54:58.620Z","module":"gardenCenterRepository","funcName":"_getGardenCenters","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:55:03.097Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:55:03.128Z","module":"clientGardenRepository","funcName":"_addClient","level":"error","message":"error { [ValidationError: ClientGarden validation failed]\n  message: 'ClientGarden validation failed',\n  name: 'ValidationError',\n  errors: \n   { gardenCenterId: \n      { [ValidatorError: Path `gardenCenterId` is required.]\n        message: 'Path `gardenCenterId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'gardenCenterId',\n        value: undefined } } }"}
+{"timestamp":"2016-07-14T04:55:03.128Z","module":"clientGardenService","funcName":"_addClient","level":"error","message":"error { [ValidationError: ClientGarden validation failed]\n  message: 'ClientGarden validation failed',\n  name: 'ValidationError',\n  errors: \n   { gardenCenterId: \n      { [ValidatorError: Path `gardenCenterId` is required.]\n        message: 'Path `gardenCenterId` is required.',\n        name: 'ValidatorError',\n        properties: [Object],\n        kind: 'required',\n        path: 'gardenCenterId',\n        value: undefined } } }"}
+{"timestamp":"2016-07-14T04:55:03.143Z","module":"clientGardenRepository","funcName":"_getClientById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:55:08.317Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:56:21.105Z","module":"clientGardenRepository","funcName":"_getGardenById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:57:54.976Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:57:55.018Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:57:55.030Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=57871bd24eb8953012a73db9"}
+{"timestamp":"2016-07-14T04:57:55.054Z","module":"gardenCenterRepository","funcName":"_updateGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:57:55.067Z","module":"gardenCenterRepository","funcName":"_getGardenCenters","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:57:55.082Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:57:55.111Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:57:55.116Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:57:55.124Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:57:55.138Z","module":"clientGardenRepository","funcName":"_getClientById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:58:52.059Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:58:56.132Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:58:56.144Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=57871c106c50ef4612d4fe71"}
+{"timestamp":"2016-07-14T04:58:56.158Z","module":"gardenCenterRepository","funcName":"_updateGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:58:56.172Z","module":"gardenCenterRepository","funcName":"_getGardenCenters","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:59:06.246Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:59:06.276Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:59:06.283Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T04:59:06.289Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:03:55.468Z","module":"clientGardenRepository","funcName":"_getClientById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:14.945Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:14.990Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:15.007Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=57871d8afb943928135d1195"}
+{"timestamp":"2016-07-14T05:05:15.031Z","module":"gardenCenterRepository","funcName":"_updateGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:15.049Z","module":"gardenCenterRepository","funcName":"_getGardenCenters","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:15.060Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:15.087Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:15.093Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:15.101Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:15.113Z","module":"clientGardenRepository","funcName":"_updateClient","level":"info","message":"info start clientId=57871d8bfb943928135d1197"}
+{"timestamp":"2016-07-14T05:05:15.119Z","module":"clientGardenRepository","funcName":"_getClientById","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:30.584Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:30.629Z","module":"gardenCenterRepository","funcName":"_addGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:30.640Z","module":"gardenCenterRepository","funcName":"_getGardenCenterById","level":"info","message":"info start gardenCenterId=57871d9af0ef8f3513653773"}
+{"timestamp":"2016-07-14T05:05:30.664Z","module":"gardenCenterRepository","funcName":"_updateGardenCenter","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:30.679Z","module":"gardenCenterRepository","funcName":"_getGardenCenters","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:30.691Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:30.721Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:30.734Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:30.752Z","module":"clientGardenRepository","funcName":"_addClient","level":"info","message":"info start"}
+{"timestamp":"2016-07-14T05:05:30.772Z","module":"clientGardenRepository","funcName":"_updateClient","level":"info","message":"info start clientId=57871d9af0ef8f3513653775"}
+{"timestamp":"2016-07-14T05:05:30.784Z","module":"clientGardenRepository","funcName":"_getClientById","level":"info","message":"info start"}

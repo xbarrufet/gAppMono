@@ -12,7 +12,6 @@ var log = new (winston.Logger)({
 
 function metadata(module,funcName) {
     var res ={};
-    res.service="userManagementService";
     res.timestamp = new Date();
     res.module=module;
     res.funcName=funcName;
